@@ -1,89 +1,28 @@
+<h1 align="center">Hi 👋, I'm Abirx</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh,Sylhet</h3>
 
-## ***About Attacker***:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h4abir&label=Profile%20views&color=0e75b6&style=flat" alt="h4abir" /> </p>
 
-```
-Bomb is a python based Toolkit. This is a set of tools to provide denial of service attacks. bomb is a SMS Bombing Toolkit. This tool works on both rooted Android device and Non-rooted Android device.
-```
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4abir" alt="h4abir" /></a> </p>
 
-## Installation :
-```
-$ pkg update && pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pkg install git
-$ pkg install pip
-$ pkg install pip2
-$ pip2 install requests
-$ pip2 install mechanize
+- 🔭 I’m currently working on (privet) [FB I'd hacking](https://github.com/H4abir/Fbhack)
 
-```
+- 🌱 I’m currently learning **Kali and python**
 
-## Tools Run :
-```
-$ ls && cd AbirX  && ls
-$ chmod +x *
-$ pip install -r requirements.txt
-$ python2 bomb.py
-```
+- 👨‍💻 All of my projects are available at [https://github.com/H4abir](https://github.com/H4abir)
 
-## Battack Using :
-```
-$ cd Abirx
-$ ls
-$ python2 bomb.py
+- 📫 How to reach me **abir000697@gmail.com**
 
-> EXAMPLES OF SMS BOMBING
-    
-$ Mrx --tool SMS --target +8801711111111 --timeout 10 --threads 50
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/morouk_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="morouk_x" height="30" width="40" /></a>
+</p>
 
-## TOOLS NOT RUNNING ? FOLLOW THIS :
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-```
-> cd $HOME
-> ls
-> cp -r Abirx /data/data/com.termux/files/usr/bin
-> cd /data/data/com.termux/files/usr/bin/AbirX
-> ls
-> pip install -r requirements.txt
-> python2 bomb.py
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4abir&show_icons=true&locale=en&layout=compact" alt="h4abir" /></p>
 
-NOW WORKING WITHOUT ANY PROBLEM :-)
-```  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4abir&show_icons=true&locale=en" alt="h4abir" /></p>
 
-
-
-## Attacker Toolkit Disclaimer
-
-```
-Usage of the BATTACK Toolkit for attacking targets without prior mutual consent is illegal.
-It is the end user's responsibility to obey all applicable local, state, federal, and international laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
-```
-
-***
-
-# BATTACK Toolkit License
-
-```
-MIT License
-
-Copyright (C) 2023, Abir. All Rights Reserved.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4abir&" alt="h4abir" /></p>
